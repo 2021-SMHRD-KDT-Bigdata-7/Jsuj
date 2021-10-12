@@ -17,6 +17,8 @@ public class 집가고싶은피카츄 {
 		}else {
 			System.out.println("복수하겠다");
 		}
+		
+		
 
 	}
 
