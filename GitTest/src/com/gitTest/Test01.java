@@ -7,7 +7,10 @@ public class Test01 {
 		System.out.println("첫 번째 테스트!");
 		System.out.println("두 번째 테스트!");
         System.out.println("안녕 하모니카");
-        
+
+        System.out.println("밤이 되었습니다. 마피아는 죽일 사람을 골라주세요.");
+        System.out.println("유은씨 잘가요^^");
+
 	}
 
 }
