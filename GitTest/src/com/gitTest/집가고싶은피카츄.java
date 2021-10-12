@@ -12,7 +12,7 @@ public class 집가고싶은피카츄 {
 		
 		String answer = sc.next();
 		
-		if(answer == "yes") {
+		if(answer.equals ("yes")) {
 			System.out.println("피카츄는 집에 갔습니다");
 		}else {
 			System.out.println("복수하겠다");
